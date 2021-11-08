@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.cloud.stream.kafka.streams.binder.configuration.default.key.serde",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.stream.kafka.streams.binder.configuration.default.key.serde'"
+  },
+  {
+    "name": "spring.cloud.stream.kafka.streams.binder.configuration.default.value.serde",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.stream.kafka.streams.binder.configuration.default.value.serde'"
+  }
+]}
